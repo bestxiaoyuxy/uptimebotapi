@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/*"
-to = "https://chat.openai.com/:splat"
+to = "https://api.uptimerobot.com/:splat"
 status = 200
 force = true
 headers = {X-From = "Netlify"}
